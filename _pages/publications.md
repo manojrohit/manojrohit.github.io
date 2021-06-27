@@ -1,16 +1,13 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=WDNeaMoAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
+<br>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<b>[Adversarial Robust Model Compression Using In-Train Pruning](https://manojrohit.github.io/publications/robust-pruning/)</b> <br>
+Manoj-Rohit Vemparala, Nael Fasfous, Alexander Frickenstein, Sreetama Sarkar, Qi Zhao, Sabine Kuhn, Lukas Frickenstein, Anmol Singh, Christian Unger, Naveen-Shankar Nagaraja, Christian Wressnegger, Walter Stechele.
+<i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021</i>. <b>CVPR-W 2021 2021</b>.
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[<b>\*</b> denotes equal contribution]
