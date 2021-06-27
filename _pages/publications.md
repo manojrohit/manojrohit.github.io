@@ -3,6 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+---
 <br>
 
 <b>[Pruning  CNNs  for  LiDAR-based  Perception  in  Resource  Constrained Environments](https://manojrohit.github.io/publications/lidar-cnn-pruning/)</b> <br>
@@ -26,5 +27,5 @@ Nael Fasfous, Manoj-Rohit Vemparala, Alexander Frickenstein, Lukas Frickenstein,
 <i>28th Reconfigurable Architectures Workshop 2021 </i>.
 
 <b>[Binary-LoRAX: Low-Latency Runtime Adaptable XNOR Classifier for Semi-Autonomous Grasping with Prosthetic Hands](https://manojrohit.github.io/publications/binary-lorax/)</b> <br>
-Nael Fasfous, Manoj Rohit Vemparala, Alexander Frickenstein, Mohamed Badawy, Felix Hundhausen, Julian Höfer, Naveen-Shankar Nagaraja, Christian Unger, Hans-Jörg Vögel, Jürgen Becker, Tamim Asfour, Walter Stechele.
+Nael Fasfous, Manoj Rohit Vemparala, Alexander Frickenstein, Mohamed Badawy, Felix Hundhausen, Julian Höfer, Naveen-Shankar Nagaraja, Christian Unger, Hans-Joerg Voegel, Jürgen Becker, Tamim Asfour, Walter Stechele.
 <i>International Conference on Robotics and Automation (ICRA) 2021 </i>.
