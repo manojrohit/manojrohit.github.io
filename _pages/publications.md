@@ -20,3 +20,7 @@ Manoj-Rohit Vemparala, Nael Fasfous, Alexander Frickenstein, Sreetama Sarkar, Qi
 <b>[BreakingBED -- Breaking Binary and Efficient Deep Neural Networks by Adversarial Attacks](https://manojrohit.github.io/publications/breaking-bed/)</b> <br>
 Manoj Rohit Vemparala, Alexander Frickenstein, Nael Fasfous, Lukas Frickenstein, Qi Zhao, Sabine Kuhn, Daniel Ehrhardt, Yuankai Wu, Christian Unger, Naveen Shankar Nagaraja, Walter Stechele
 <i>IntelliSys , 2021</i>.
+
+<b>[BinaryCoP: Binary Neural Network-based COVID-19 Face-Mask Wear and Positioning Predictor on Edge Devices](https://manojrohit.github.io/publications/binary-cop/)</b> <br>
+Nael Fasfous, Manoj-Rohit Vemparala, Alexander Frickenstein, Lukas Frickenstein, Walter Stechele
+<i>28th Reconfigurable Architectures Workshop 2021 </i>.
