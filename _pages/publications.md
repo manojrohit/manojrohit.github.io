@@ -7,7 +7,7 @@ author_profile: true
 
 <b>[Pruning  CNNs  for  LiDAR-based  Perception  in  Resource  Constrained Environments](https://manojrohit.github.io/publications/lidar-cnn-pruning/)</b> <br>
 Manoj-Rohit Vemparala, Anmol Singh*, Ahmed Mzid,  Nael Fasfous, Alexander Frickenstein, Florain Mirus, Hans-Joerg Voegel, Naveen Shankar Nagaraja, and Walter Stechele
-<i>Intelligent Vehicles Symposium, 2021</i>.
+<i>3D DLAD at Intelligent Vehicles Symposium, 2021</i>.
 
 <b>[Investigating  Binary  Neural  Networks  for Traffic  Sign  Detection  and  Recognition](https://manojrohit.github.io/publications/binary-traffic-sign-detector/)</b> <br>
 Ee Heng Chen, Manoj Rohit Vemparala, Nael Fasfous, Alexander Frickenstein, Ahmed Mzid, Naveen Shankar Nagaraja, Joran Zeisler and Walter Stechele
@@ -16,3 +16,7 @@ Ee Heng Chen, Manoj Rohit Vemparala, Nael Fasfous, Alexander Frickenstein, Ahmed
 <b>[Adversarial Robust Model Compression Using In-Train Pruning](https://manojrohit.github.io/publications/robust-pruning/)</b> <br>
 Manoj-Rohit Vemparala, Nael Fasfous, Alexander Frickenstein, Sreetama Sarkar, Qi Zhao, Sabine Kuhn, Lukas Frickenstein, Anmol Singh, Christian Unger, Naveen-Shankar Nagaraja, Christian Wressnegger, Walter Stechele.
 <i>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021</i>.
+
+<b>[BreakingBED -- Breaking Binary and Efficient Deep Neural Networks by Adversarial Attacks](https://manojrohit.github.io/publications/breaking-bed/)</b> <br>
+Manoj Rohit Vemparala, Alexander Frickenstein, Nael Fasfous, Lukas Frickenstein, Qi Zhao, Sabine Kuhn, Daniel Ehrhardt, Yuankai Wu, Christian Unger, Naveen Shankar Nagaraja, Walter Stechele
+<i>IntelliSys , 2021</i>.
