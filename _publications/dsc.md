@@ -9,6 +9,7 @@ date: 2019-16-06
 
 ## Abstract
 The efficient applications of Convolutional Neural Networks (CNNs) in automotive-rated and safety critical hardware-accelerators require an interplay of DNN design optimization, programming techniques and hardware resources. Ad-hoc pruning would result in irregular sparsity and compression leading in very inefficient real world applications. Therefore, the proposed methodology, called Dense-Sparse Convolution, makes use of the right balance between pruning regularity, quantization and the underlying vectorized hardware. Different word length compute units, e.g. CPU, are used for low latency inference of the spares CNNs. The proposed open source CPU-kernel scales along with the vector word length and the number of cores.
+
 [[CVPR Version]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/SAIAD/Frickenstein_DSC_Dense-Sparse_Convolution_for_Vectorized_Inference_of_Convolutional_Neural_Networks_CVPRW_2019_paper.pdf)
 
 Citation:

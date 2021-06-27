@@ -9,6 +9,7 @@ date: 2020-21-04
 
 ## Abstract
 Recent advancements in Binary Neural Networks (BNNs) have yielded promising results, bringing them a step closer to their full-precision counterparts in terms of prediction accuracy. These advancements were brought about by additional arithmetic and binary operations, in the form of scale and shift operations (fixed-point) and convolutions with multiple weight and activation bases (binary). In this paper, we propose OrthrusPE, a runtime reconfigurable processing element (PE) which is capable of executing all the operations required by modern BNNs while improving resource utilization and power efficiency. More precisely, we exploit DSP48 blocks on off-the-shelf FPGAs to compute binary Hadamard products (for binary convolutions) and fixed-point arithmetic (for scaling, shifting, batch norm, and non-binary layers), thereby utilizing the same hardware resource for two distinct, critical modes of operation. Our experiments show that common PE implementations increase dynamic power consumption by 67%, while requiring 39% more lookup tables, when compared to an OrthrusPE implementation.
+
 [[ACM]](https://dl.acm.org/doi/abs/10.5555/3408352.3408731)
 
 Citation:
