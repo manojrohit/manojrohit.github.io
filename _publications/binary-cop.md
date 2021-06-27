@@ -1,10 +1,10 @@
 ---
 title: "BinaryCoP: Binary Neural Network-based COVID-19 Face-Mask Wear and Positioning Predictor on Edge Devices"
 collection: publications
-permalink: /publications/binary-cp
+permalink: /publications/binary-cop
 venue: "IEEE IPDPS-RAW 2021"
-date: 2021-17-05
-[[Arxiv]](https://arxiv.org/pdf/2102.03456.pdf)
+date: 2021-01-06
+[[Paper]](https://h2t.anthropomatik.kit.edu/pdf/Fasfous2021.pdf)
 ---
 
 ## Abstract
