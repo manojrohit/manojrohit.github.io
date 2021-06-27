@@ -32,7 +32,7 @@ Nael Fasfous, Manoj Rohit Vemparala, Alexander Frickenstein, Mohamed Badawy, Fel
 
 <b>[L2PF - Learning to Prune Faster](https://manojrohit.github.io/publications/l2pf/)</b> <br>
 Manoj-Rohit Vemparala, Nael Fasfous, Alexander Frickenstein, Mhd Ali Moraly, Aquib Jamal, Lukas Frickenstein, Christian Unger, Naveen-Shankar Nagaraja, Walter Stechele.
-<i>5th IAPR International Conference on Computer Vision & Image Processing</i>.
+<i>5th IAPR International Conference on Computer Vision & Image Processing 2020</i>.
 
 <b>[ALF: Autoencoder-based Low-rank Filter-sharing for Efficient Convolutional Neural Networks](https://manojrohit.github.io/publications/dac-alf/)</b> <br>
 Alexander Frickenstein, Manoj-Rohit Vemparala, Nael Fasfous, Laura Hauenschild, Naveen-Shankar Nagaraja, Christian Unger, Walter Stechele.
@@ -48,7 +48,7 @@ Nael Fasfous, Manoj-Rohit Vemparala, Alexander Frickenstein, Walter Stechele.
 
 <b>[DSC: Dense-Sparse Convolution for Vectorized Inference of Convolutional Neural Networks](https://manojrohit.github.io/publications/dsc/)</b> <br>
 Alexander Frickenstein, Manoj Rohit Vemparala, Christian Unger, Fatih Ayar, Walter Stechele.
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)  </i>.
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 2019 </i>.
 
 <b>[An Efficient FPGA Accelerator Design for Optimized CNNs Using OpenCL](https://manojrohit.github.io/publications/winocnn/)</b> <br>
 Manoj Rohit Vemparala, Alexander Frickenstein, Walter Stechele
